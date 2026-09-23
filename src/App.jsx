@@ -34,11 +34,7 @@ function App() {
 
       <section id="next-steps">
         <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
+          <h1>hello</h1>
           <ul>
             <li>
               <a href="https://vite.dev/" target="_blank">
